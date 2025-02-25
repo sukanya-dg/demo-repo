@@ -1,2 +1,2 @@
 # Demo
-Learning GIT.
+Learning GIT by following youtube tutorial.
